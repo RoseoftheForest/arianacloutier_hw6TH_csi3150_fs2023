@@ -1,0 +1,22 @@
+.image-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .image-container img {
+    max-width: 30%; /* tbh im not sure if this is exactly what was wanted but i feel like i got it close */
+    height: auto;
+  }
+  
+  
+  .travel-card {
+    margin-bottom: 20px; /* I kinda tryed to use the card i did in assignment 4 but this one is much looser i guess */
+  }
+  
+  .place-heading {
+    font-size: 1.5rem; 
+  }
+  
+  .place-description {
+    margin-top: 10px; 
+  }
